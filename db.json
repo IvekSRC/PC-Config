@@ -1,0 +1,299 @@
+{
+  "cpu": [
+    {
+      "id": 1,
+      "name": "AMD Ryzen 5 5600X",
+      "coreCount": 6,
+      "performanceCoreClock": 3.7,
+      "performanceBoostClock": 4.6,
+      "tdp": 65,
+      "integratedGraphics": "None",
+      "price": 224.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3ef757133d38ac40afe75da691ba7d60.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "AMD Ryzen 7 5800X",
+      "coreCount": 8,
+      "performanceCoreClock": 3.8,
+      "performanceBoostClock": 4.7,
+      "tdp": 105,
+      "integratedGraphics": "None",
+      "price": 339.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9b4cefb2e43f2c358f3a97a31e1be90b.1600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Intel Core i5-12600K",
+      "coreCount": 10,
+      "performanceCoreClock": 3.7,
+      "performanceBoostClock": 4.9,
+      "tdp": 125,
+      "integratedGraphics": "Intel UHD Graphics 770",
+      "price": 384.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3f727799b9fc5e83f0e8953759946bd2.1600.jpg"
+    }
+  ],
+  "cpuCooler": [
+    {
+      "id": 1,
+      "name": "Cooler Master Hyper 212 Black Edition",
+      "fanRPM": "650 - 2000 RPM",
+      "noiseLevel": "6.5 - 26 dB",
+      "color": "Black",
+      "price": 43.99,
+      "image": "https://m.media-amazon.com/images/I/51TckKJjtqL.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Corsair iCUE H150i ELITE CAPALLIX",
+      "fanRPM": "2400 RPM",
+      "noiseLevel": "10 - 37 dB",
+      "color": "Black",
+      "price": 179.99,
+      "image": "https://m.media-amazon.com/images/I/413OCO3m4-L.jpg"
+    }
+  ],
+  "motherboard": [
+    {
+      "id": 1,
+      "name": "Asus Tuf GAMING X570-PLUS (WI-FI)",
+      "memoryMax": 128,
+      "memorySlots": 4,
+      "color": "Black / Gold",
+      "price": 194.00,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8d7d0435e8a2af93b5d91a1a5dccd476.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Asus ROG STRIX B550-F GAMING (WI-FI)",
+      "memoryMax": 128,
+      "memorySlots": 4,
+      "color": "Black",
+      "price": 194.99,
+      "image": "https://m.media-amazon.com/images/I/51iEOq4jUaL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "MSI MAG B550 TOMAHAWK",
+      "memoryMax": 256,
+      "memorySlots": 4,
+      "color": "Black / Silver",
+      "price": 168.74,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/52ee465cbd64b16145232d863524c066.1600.jpg"
+    }
+  ],
+  "memory": [
+    {
+      "id": 1,
+      "name": "Corsair Vengeance LPX 16 GB",
+      "speed": "DDR4-3200",
+      "modules": "2 x 8GB",
+      "color": "Black / Yellow",
+      "price": 69.98,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0d7ccc6bb32c1a857bdfc56d9eb74081.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Corsair Vengeance RGB Pro 16 GB",
+      "speed": "DDR4-3200",
+      "modules": "2 x 8GB",
+      "color": "Black",
+      "price": 89.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/87cd8e9d02ffb0997769f4a4d5969669.1600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "G.Skill Trident Z RGB 16 GB",
+      "speed": "DDR4-3600",
+      "modules": "2 x 8GB",
+      "color": "Black",
+      "price": 94.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d19422479fca6e5117bb55db3d25eac2.1600.jpg"
+    }
+  ],
+  "storage": [
+    {
+      "id": 1,
+      "name": "Samsung 970 Evo Plus",
+      "capacity": "1 TB",
+      "type": "SSD",
+      "cache": "1024 MB",
+      "price": 109.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/326881d073c1b667bd348893696c690e.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Seagate Barracuda Compute",
+      "capacity": "2 TB",
+      "type": "7200RPM",
+      "cache": "256 MB",
+      "price": 46.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c7b5b7dacbecdcdd0e073b761193eef6.1600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Western Digital Blue SN550",
+      "capacity": "1 TB",
+      "type": "SSD",
+      "cache": "/",
+      "price": 94.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/73be90b182cdb68fe899775fb8fa56ed.1600.jpg"
+    }
+  ],
+  "videocard": [
+    {
+      "id": 1,
+      "name": "EVGA XC GAMING",
+      "chipset": "GeForce RTX 3060",
+      "memory": 12,
+      "coreClock": 1320,
+      "boostClock": 1882,
+      "price": 750.91,
+      "image": "https://m.media-amazon.com/images/I/51IH-cRlj8L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "EVGA FTW3 ULTRA GAMING",
+      "chipset": "GeForce RTX 3070 Ti",
+      "memory": 8,
+      "coreClock": 1575,
+      "boostClock": 1860,
+      "price": 1074.95,
+      "image": "https://m.media-amazon.com/images/I/41Y7JgAEnWS.jpg"
+    }
+  ],
+  "case": [
+    {
+      "id": 1,
+      "name": "Corsair 4000D Airflow",
+      "type": "ATX Mid Tower",
+      "color": "Black",
+      "price": 104.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bc6e987da3fe22c616898d1d7fa3d227.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "NZXT H510",
+      "type": "ATX Mid Tower",
+      "color": "White",
+      "price": 79.98,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/604fef5ac9874dffa927a3db98c1188d.1600.jpg"
+    }
+  ],
+  "powerSuply": [
+    {
+      "id": 1,
+      "name": "Corsair RMx (2021)",
+      "wattage": 850,
+      "color": "Black",
+      "price": 149.99,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4f19c6453ce4ebe67091e6d9735f3a19.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Corsair HX Platinum",
+      "wattage": 1000,
+      "color": "Black",
+      "price": 189.99,
+      "image": "https://m.media-amazon.com/images/I/51sXglSjloL.jpg"
+    }
+  ],
+  "monitor": [
+    {
+      "id": 1,
+      "name": "Dell UP3216Q",
+      "screenSize": 31.5,
+      "resolution": "3840x2160",
+      "refreshRate": 60,
+      "price": 4612.17,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/product/01d3a3b955e2ebe117cfdc7310b38c25.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Asus TUF Gaming VG27AQ",
+      "screenSize": 27.0,
+      "resolution": "2560x1440",
+      "refreshRate": 165,
+      "price": 325.99,
+      "image": "https://m.media-amazon.com/images/I/41ZM7pNwiJL.jpg"
+    }
+  ],
+  "completedBuild": [
+    {
+      "id": 1,
+      "name": "Black Red H710i 2022",
+      "cpu": 1,
+      "cpuCooler": 1,
+      "motherboard": 1,
+      "memory": 1,
+      "storage": 1,
+      "videoCard": 1,
+      "case": 1,
+      "powerSuply": 1,
+      "monitor": 1,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/userbuild/388590.8ebf1de6362e4d6ba5bb3cc3ca075ccd.1600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Frankenjack",
+      "cpu": 2,
+      "cpuCooler": 1,
+      "motherboard": 2,
+      "memory": 2,
+      "storage": 1,
+      "videoCard": 2,
+      "case": 1,
+      "powerSuply": 1,
+      "monitor": 2,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/userbuild/388734.a4674e0288748c70dfc90f8317c4714f.1600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Minecraft Server Build",
+      "cpu": 2,
+      "cpuCooler": 2,
+      "motherboard": 2,
+      "memory": 2,
+      "storage": 1,
+      "videoCard": 2,
+      "case": 1,
+      "powerSuply": 1,
+      "monitor": 1,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/userbuild/388728.9eed6676e0afbdf19332aa596aa9d966.1600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Personal PC Rebuild",
+      "cpu": 2,
+      "cpuCooler": 2,
+      "motherboard": 2,
+      "memory": 2,
+      "storage": 1,
+      "videoCard": 2,
+      "case": 1,
+      "powerSuply": 1,
+      "monitor": 1,
+      "image": "https://cdna.pcpartpicker.com/static/forever/images/userbuild/388728.9eed6676e0afbdf19332aa596aa9d966.1600.jpg"
+    }
+  ],
+  "rules": {
+    "testCpuAndPowerSuply": 
+    {
+      
+      "arg1": 6,
+      "arg2": 900,
+      "operators": { "questioningOne": ">", "questioningTwo": "<", "combinationOperator": "&" },
+      "errMessage1": "Core count must be greater for this type of Power Suply.",
+      "errMessage2": "This type of Power Suply can not support this type of CPU."
+    },
+    "testCpuAndVideoCard":
+    {
+      "arg1": 6,
+      "arg2": 10,
+      "operators": { "questioningOne": ">", "questioningTwo": "<", "combinationOperator": "&" },
+      "errMessage1": "Core count must be greater for this type of Video Card.",
+      "errMessage2": "Memory must be greater for this type of CPU."
+    }
+  }
+}
